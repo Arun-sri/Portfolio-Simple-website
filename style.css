@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-family: "Young Serif", serif;
+
+}
+
+
+.container {
+    padding: 50px;
+
+}
+
+.section--one__heading,
+.section--two__heading,
+.section--three__heading,
+.section--four__heading,
+.section--five__desc {
+
+    margin-top: 20px;
+}
+
+.section--one {
+    background-color: black;
+    color: white;
+    padding: 10px;
+
+}
+
+.section--one__headingg {
+    font-size: 40px;
+}
+
+.section--one__desc {
+    padding-top: 10px;
+}
+
+
+.section--one__button {
+    margin-top: 5px;
+
+}
+
+.section--one__button a {
+    margin-top: 5px;
+    text-decoration: none;
+    padding: 5px 10px 5px 10px;
+    display: inline-block;
+    background-color: orangered;
+    color: white;
+}
+
+
+
+.section--two__desc {
+    margin-top: 10px;
+}
+
+.section--three {
+    display: inline-block;
+    background-color: #6462fd;
+    vertical-align: top;
+    margin-top: 10px;
+    border-radius: 10px;
+    height: 200px;
+    padding: 20px;
+}
+
+.section--three__desc {
+    padding-top: 10px;
+}
+
+.section--three__desc li {
+    list-style: none;
+
+}
+
+.section--four {
+    display: inline-block;
+}
+
+.section--four {
+    display: inline-block;
+    background-color: #FE7517;
+    vertical-align: top;
+    margin-top: 10px;
+    border-radius: 10px;
+    height: 200px;
+    padding: 20px;
+
+}
+
+
+
+.section--four__desc li {
+    list-style: none;
+    padding-top: 10px;
+}
+
+.section--five{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.section--five__desc a{
+    color: skyblue;
+}
+
+.contact--page   {
+    margin-top: 20px;
+}
+
+.contact--page__input {
+    margin-top: 5px;
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.contact--page__text {
+    margin-top: 10px;
+    padding: 20px;
+    border: none;
+    border: 1px solid black;
+}
+
+.contact--page__submit {
+    margin-top: 5px;
+    text-decoration: none;
+    padding: 5px 10px 5px 10px;
+    display: inline-block;
+    background-color: orangered;
+    border: none;
+
+ }
+
+ .contact--page__submit:hover {
+  cursor: pointer;
+  color: white;
+  
+    
+ }
